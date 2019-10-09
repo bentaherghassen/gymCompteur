@@ -1,4 +1,4 @@
-# Gym-Compteur a snazzy app using Ionic 4
+# Gym-Counter a snazzy app using Ionic 4
 
 
 # by .Ghassen < ben taher />
